@@ -54,8 +54,10 @@ print(sorted(numbers));
 print(numbers);
 
 # 反转
-
 names = ["zwj","dyz","ay"];
 print(names);
 names.reverse();
 print(names);
+
+# 数组长度
+print(len(names));
